@@ -1,4 +1,12 @@
 Linia 1
+<<<<<<< HEAD
 Linia 2
 Linia 3
 Funkcjonalność w branchu feature 
+=======
+Poprawka HotFix
+Linia 2
+Linia 3
+Funkcjonalność w branchu feature 
+>>>>>>> master
+Zakończenie funkcjonalności feature
