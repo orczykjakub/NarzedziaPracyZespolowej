@@ -8,5 +8,5 @@ Poprawka HotFix
 Linia 2
 Linia 3
 Funkcjonalność w branchu feature 
->>>>>>> master
+>>>>>>> feature
 Zakończenie funkcjonalności feature
