@@ -1,3 +1,5 @@
 *.tmp
 Tmp.*
 *.inf
+*.doc
+*.docx
