@@ -1,5 +1,6 @@
 int a = 2;
 int b = 0;
+
 int main(void)
 {
 if(a+b>5)
